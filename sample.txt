@@ -1,0 +1,1 @@
+The point is, make sure that you’re using git reset on a local experiment that went wrong—not on published changes. If you need to fix a public commit, the git revert c
